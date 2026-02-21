@@ -1,0 +1,10 @@
+{
+    "id": "sacramento",
+    "name": "Sacramento",
+    "version": "1.0.0",
+    "author": "Jon Caryl, github: @soccerjonj",
+    "Collaborators": "Made with Subway Builder Patcher by Kronifer: ISC License Copyright 2026 Piero Maddaleni and Subway Builder US Demand Data by rslurry",
+
+    "description": "Connect the historic capital city of California",
+    "entryPoint": "index.js"
+}
